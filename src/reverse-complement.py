@@ -6,8 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-
-	Erandhi Ornelas	
+	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
@@ -17,7 +16,7 @@ CATEGORY
     
 USAGE
 
-    % python reverse-complement.py -i sequence.txt 
+    % python reverse-complement.py -i FILENAME 
     
     example
     
