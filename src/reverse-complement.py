@@ -6,7 +6,8 @@ VERSION
     1.0
     
 AUTHOR
-	
+
+	Erandhi Ornelas	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
